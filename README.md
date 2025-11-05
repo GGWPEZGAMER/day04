@@ -36,24 +36,17 @@ Kubernetes turns containers into resilient, scalable, and manageable units. What
 Avoid Kubernetes when simplicity, speed, and minimal resources are more important.
 
 
+Check out the today's lecture from Original Mentor #Piyushsachdeva
+Youtube - https://youtu.be/lXs1VCWqIH4?si=Yg-Q0Ywl6mS5Ms_n
+Github - https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day04/task.md
 
-Can checkout from this.
-
-Github - https://github.com/GGWPEZGAMER/day04/blob/main/README.md
+#Kubernetes #Docker # DevOps #TechLearning #Containerization #CloudOps
+#piyushsachdeva #TheCloudOpsCommunity
 
 
 
 #Kubernetes #Docker #DevOps #TechLearning 
 
-
-
-#Containerization hashtag
-
-#CloudOps hashtag
-
-#piyushsachdeva hashtag
-
-#TheCloudOpsCommunity
 <img width="1905" height="1184" alt="viber_image_2025-11-05_15-40-50-689" src="https://github.com/user-attachments/assets/0a14bfc7-f968-4e63-88fb-92122883e496" />
 
 
